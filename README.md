@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)](https://hacktoberfest.digitalocean.com)
+[![MasterHead](https://camo.githubusercontent.com/adc370d5e2f03791f46c034206c0932baac93320fb80e3c1cb90ccd81fd026b7/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334453132415145724a7359617944757456672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635313833353036)](https://hacktoberfest.digitalocean.com)
 <h1 align="center">Hi 👋, I'm Sharulatha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
