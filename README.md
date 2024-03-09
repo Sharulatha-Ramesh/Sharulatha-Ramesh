@@ -13,7 +13,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DkTcLpksDOX_8LL2qBk5PlAqpsviuizZ/view?usp=sharing](https://drive.google.com/file/d/1DkTcLpksDOX_8LL2qBk5PlAqpsviuizZ/view?usp=sharing)
 
 
-<img align="rigth" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sharulatha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharulatha22" height="30" width="40" /></a>
