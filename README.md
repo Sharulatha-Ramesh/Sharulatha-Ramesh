@@ -27,7 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharulatha-ramesh&" alt="sharulatha-ramesh" /></p>
 
 ![](https://leetcard.jacoblin.cool/21ita47?theme=unicorn)
-![](https://leetcard.jacoblin.cool/21ita47?theme=light,unicorn)
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
-![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
+
