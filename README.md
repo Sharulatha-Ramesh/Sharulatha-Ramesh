@@ -28,3 +28,4 @@
 
 ![](https://leetcard.jacoblin.cool/21ita47?theme=unicorn)
 ![](https://leetcard.jacoblin.cool/21ita47?theme=light,unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
