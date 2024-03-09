@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Sharulatha</h1>
 <h3 align="center">A passionate software developer from India</h3>
-![](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<img alt="code" scr="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+
+<img alt="code" scr="https://img.freepik.com/free-vector/woman-working-new-app_23-2148682102.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1709510400&semt=ais">
 - 🔭 I’m currently working on [A Collaborative Innovation Platform for Students](https://github.com/Sharulatha-Ramesh/EduInnoHub)
 
 - 🌱 I’m currently learning **React , Bootstrap , Django**
